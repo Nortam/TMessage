@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TMessage</string>
+    <string name="title_activity_add">Новое сообщение</string>
+
+    <string name="speech_prompt">Скажите что-нибудь</string>
+    <string name="speech_not_supported">Ваше устройство не поддерживает голосовой ввод</string>
+    <string name="tap_on_mic">Нажми на кнопку!</string>
+</resources>

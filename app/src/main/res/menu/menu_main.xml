@@ -1,0 +1,32 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.textmessages.textmessagessimple.MainActivity">
+    <item
+        android:id="@+id/edit"
+        android:orderInCategory="100"
+        android:title="Редактировать" />
+    <item
+        android:id="@+id/add_list"
+        android:orderInCategory="101"
+        android:title="Новый список" />
+    <item
+        android:id="@+id/add_category"
+        android:orderInCategory="102"
+        android:title="Новая категория" />
+    <item
+        android:id="@+id/delete"
+        android:orderInCategory="103"
+        android:title="Удалить" />
+    <item
+        android:id="@+id/search_check"
+        android:checkable="true"
+        android:checked="false"
+        android:orderInCategory="104"
+        android:title="Поиск по всем спискам"
+        app:actionLayout="@layout/switch_item" />
+    <item
+        android:id="@+id/about"
+        android:orderInCategory="105"
+        android:title="Справка" />
+</menu>

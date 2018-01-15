@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableRow xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@+id/column_0" android:text="" android:textAlignment="center" android:layout_height="wrap_content"/>
+    <TextView android:id="@+id/column_1" android:text="" android:layout_height="wrap_content"/>
+    <TextView android:id="@+id/column_2" android:text="" android:layout_height="wrap_content"/>
+</TableRow>
