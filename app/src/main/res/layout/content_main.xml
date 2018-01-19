@@ -30,7 +30,7 @@
         tools:visibility="invisible" />
 
     <Spinner
-        android:id="@+id/spinner"
+        android:id="@+id/categorySpinner"
         android:layout_width="0dp"
         android:layout_height="20dp"
         android:layout_marginEnd="1dp"
@@ -56,7 +56,7 @@
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/spinner"
+        app:layout_constraintTop_toBottomOf="@+id/categorySpinner"
         android:layout_marginBottom="1dp"
         app:layout_constraintBottom_toTopOf="@+id/progressBar"
         app:layout_constraintVertical_bias="1.0">

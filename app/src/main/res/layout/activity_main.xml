@@ -41,7 +41,7 @@
                 android:layout_height="match_parent">
 
                 <Spinner
-                    android:id="@+id/toolbar_spinner"
+                    android:id="@+id/toolbarSpinner"
                     android:layout_width="wrap_content"
                     android:layout_height="40dp"
                     android:layout_marginBottom="8dp"
