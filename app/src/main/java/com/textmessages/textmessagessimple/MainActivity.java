@@ -180,7 +180,7 @@ public class MainActivity extends AppCompatActivity {
                 } else {
                     AlertDialog.Builder builder = new AlertDialog.Builder(MainActivity.this);
                     builder.setMessage(getString(R.string.search_error))
-                            .setPositiveButton("Ок", new DialogInterface.OnClickListener() {
+                            .setPositiveButton(getString(R.string.ok), new DialogInterface.OnClickListener() {
                                 @Override
                                 public void onClick(DialogInterface dialog, int which) {
                                 }
