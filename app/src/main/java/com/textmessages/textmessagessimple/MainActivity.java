@@ -34,6 +34,8 @@ import android.widget.TextView;
 import android.widget.Toast;
 import java.util.ArrayList;
 import java.util.Locale;
+import java.util.Queue;
+
 import android.content.ActivityNotFoundException;
 import android.speech.RecognizerIntent;
 import com.textmessages.textmessagessimple.database.DBHelper;
