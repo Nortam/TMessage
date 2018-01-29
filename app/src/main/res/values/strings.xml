@@ -21,7 +21,7 @@
     <string name="messages_not_found">Сообщений не найдено</string>
     <string name="all_messages">Все сообщения</string>
     <string name="new_list">Новый список</string>
-    <string name="list_is_added">Список добавлено</string>
+    <string name="list_is_added">Список добавлен</string>
     <string name="list_already_exists">Список с таким именем уже существует</string>
     <string name="new_category">Новая категория</string>
     <string name="category_is_added">Категория добавлена</string>
@@ -30,7 +30,7 @@
     <string name="edit">Редактирование</string>
     <string name="to_continue">Продолжить</string>
     <string name="apply">Применить</string>
-    <string name="non_existent_id">Применить</string>
+    <string name="non_existent_id">Несуществующий ID</string>
     <string name="category">Категория</string>
     <string name="message_was_successfully_changed">Сообщение успешно изменено. Обновите содержимое</string>
     <string name="category_was_successfully_changed">Категория успешно изменена. Обновите содержимое</string>
@@ -45,4 +45,15 @@
     <string name="message_deleted">Сообщение удалено</string>
     <string name="delete_category_Q">Удалить категорию</string>
     <string name="category_deleted">Категория удалена</string>
+    <string name="about_app_info">TMessage by Nortamn\n\nПриложение для хранения, редактирования и поиска фраз для общения на любом языке.</string>
+    <string name="about_app_email">E-mail для связи с разработчиком: nortam81@gmail.com</string>
+    <string name="name">Название</string>
+    <string name="delete_messages_from_current_list">Удалить сообщения списка</string>
+    <string name="delete_current_list">Удалить текущий список</string>
+    <string name="delete_category">Удалить категорию</string>
+    <string name="delete_message">Удалить сообщение</string>ID сообщения
+    <string name="id_message">ID сообщения</string>
+    <string name="new_value">Новое значение</string>
+    <string name="new_translate">Новый перевод</string>
+    <string name="Search_among_all_lists">Поиск по всем спискам</string>
 </resources>
