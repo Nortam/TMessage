@@ -5,28 +5,28 @@
     <item
         android:id="@+id/edit"
         android:orderInCategory="100"
-        android:title="Редактировать" />
+        android:title="@string/edit" />
     <item
         android:id="@+id/add_list"
         android:orderInCategory="101"
-        android:title="Новый список" />
+        android:title="@string/new_list" />
     <item
         android:id="@+id/add_category"
         android:orderInCategory="102"
-        android:title="Новая категория" />
+        android:title="@string/new_category" />
     <item
         android:id="@+id/delete"
         android:orderInCategory="103"
-        android:title="Удалить" />
+        android:title="@string/delete" />
     <item
         android:id="@+id/search_check"
         android:checkable="true"
         android:checked="false"
         android:orderInCategory="104"
-        android:title="Поиск по всем спискам"
+        android:title="@string/Search_among_all_lists"
         app:actionLayout="@layout/switch_item" />
     <item
         android:id="@+id/about"
         android:orderInCategory="105"
-        android:title="Справка" />
+        android:title="@string/reference" />
 </menu>
