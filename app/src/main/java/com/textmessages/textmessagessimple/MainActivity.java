@@ -34,7 +34,6 @@ import android.widget.TextView;
 import android.widget.Toast;
 import java.util.ArrayList;
 import java.util.Locale;
-import java.util.Queue;
 
 import android.content.ActivityNotFoundException;
 import android.speech.RecognizerIntent;
@@ -57,10 +56,10 @@ public class MainActivity extends AppCompatActivity {
     private FloatingActionButton fab;
 
     private final int REQ_CODE_SPEECH_INPUT = 100;
-    private DBHelper dbHelper = null;
-    private SQLiteDatabase db;
-    private int widthFirstColumn = 200, widthSecondColumn;
-    private int messagesCount = 0;
+    private static DBHelper dbHelper = null;
+    private static SQLiteDatabase db;
+    private static int widthFirstColumn = 200, widthSecondColumn;
+    private static int messagesCount = 0;
 
     private static int[] idKeys, idLists;
 
