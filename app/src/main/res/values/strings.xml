@@ -55,5 +55,6 @@
     <string name="id_message">ID message</string>
     <string name="new_value">New value</string>
     <string name="new_translate">New translation</string>
-    <string name="Search_among_all_lists">Search among all lists</string>
+    <string name="search_among_all_lists">Search among all lists</string>
+    <string name="search">Search...</string>
 </resources>
