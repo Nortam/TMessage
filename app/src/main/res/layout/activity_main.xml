@@ -79,16 +79,14 @@
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
                 android:layout_marginBottom="8dp"
-                android:layout_marginEnd="8dp"
                 android:layout_marginLeft="8dp"
                 android:layout_marginRight="8dp"
-                android:layout_marginStart="8dp"
                 android:layout_marginTop="8dp"
                 android:background="@android:color/holo_blue_dark"
                 android:baselineAligned="false"
                 android:contextClickable="false"
-                android:orientation="horizontal"
                 android:maxLength="100"
+                android:orientation="horizontal"
                 android:visibility="visible"
                 app:defaultQueryHint="Search..."
                 app:layout_constraintBottom_toBottomOf="parent"
@@ -97,7 +95,7 @@
                 app:layout_constraintTop_toTopOf="parent"
                 app:layout_constraintVertical_bias="0.0"
                 app:layout_scrollFlags="scroll"
-                app:queryHint="Поиск..."
+                app:queryHint="@string/search"
                 app:voiceIcon="@android:drawable/ic_btn_speak_now"></android.support.v7.widget.SearchView>
 
             <ImageView

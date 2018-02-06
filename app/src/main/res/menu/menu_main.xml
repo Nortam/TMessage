@@ -23,7 +23,7 @@
         android:checkable="true"
         android:checked="false"
         android:orderInCategory="104"
-        android:title="@string/Search_among_all_lists"
+        android:title="@string/search_among_all_lists"
         app:actionLayout="@layout/switch_item" />
     <item
         android:id="@+id/about"
