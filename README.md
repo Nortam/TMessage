@@ -5,7 +5,7 @@ Interface language: Russian. English support will be soon.
 License: GPLv3 (GNU General Public License Version 3).
 
 <p align="center">
-<a href="https://play.google.com/store/apps/details?id=com.textmessages.textmessagessimple&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1">
+<a href="https://play.google.com/store/apps/details?id=com.textmessages.textmessagessimple&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1" target="_blank">
   <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="200" title="Google Play link on TMessage"/>
 </a></p>
 
