@@ -4,6 +4,8 @@ Interface language: Russian. English support will be soon.
 
 License: GPLv3 (GNU General Public License Version 3).
 
+<a href='https://play.google.com/store/apps/details?id=com.textmessages.textmessagessimple&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
+
 Screenshots of app:
 01. Main
 <p align="center">
